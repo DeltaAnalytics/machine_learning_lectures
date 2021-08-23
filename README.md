@@ -7,3 +7,4 @@ Delta Analytics Global Teaching Fellow's Machine Learning Lectures
 | Leke Onilude | Generative Adversarial Networks | [YouTube](https://www.youtube.com/watch?v=HYiZBV0d91A&list=PL2racq-vNs4kNnk3RLZrsEOKnbtxJo91M&index=3&ab_channel=DeltaAnalyticsMLLectures) | |
 | Dina Machuve | AI Applications for Africa | [YouTube](https://www.youtube.com/watch?v=FUS6glC9yts&ab_channel=DeltaAnalyticsMLLectures) | [slides](https://github.com/DeltaAnalytics/machine_learning_lectures/blob/master/dina_machuve_slides.pdf) [code](https://colab.research.google.com/drive/1LY6XMu5_5SVLk3R7hFs8GMp5yfZnf_sD?usp=sharing) |
 | Chima Ibebunjoh | Decision Trees Intuition | [YouTube](https://www.youtube.com/watch?v=pSQZc06RNU0) |  |
+| Aseda Addai-Deseh | Introduction to K-means Clustering | [YouTube](https://www.youtube.com/watch?v=CvYviDwwL6c&t=17s) |  |
